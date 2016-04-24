@@ -1,0 +1,19 @@
+{
+  "name": "escritor",
+  "version": "1.0.0",
+  "description": "Escritor - free ghost blog themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemixru/escritor.git"
+  },
+  "author": "codemixru",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/codemixru/escritor/issues"
+  },
+  "homepage": "https://github.com/codemixru/escritor#readme"
+}
